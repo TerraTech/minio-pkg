@@ -63,3 +63,5 @@ require (
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/ini.v1 v1.57.0 // indirect
 )
+
+replace github.com/fatih/color v1.12.0 => github.com/TerraTech/color v1.12.1-0.20220523143747-1e0ba3c2532c
